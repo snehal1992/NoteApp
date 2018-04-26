@@ -16,7 +16,7 @@ Its an app that lets users create a new note with title and body, delete a note 
   
   This would include all dependent libraries 
   
-3. Now using the command line run the following commands according to need->
+4. Now using the command line run the following commands according to need->
   
   ```
 node app.js read --title "titlename" (Reading notes )
@@ -25,5 +25,17 @@ node app.js remove --title "titlename" (Delete notes)
 node app.js list (list notes)
 
 ```
+## File Description
+
+app.js : Root js file to be run
+
+notes.js : Core functionality of notes app
+
+node-data.json : Persisting data from user 
+
+playground : Playing with tech :)
+
+
+
 
 
