@@ -33,7 +33,9 @@ notes.js : Core functionality of notes app
 
 node-data.json : Persisting data from user 
 
-playground : Playing with tech :)
+playground : js files to play with tech in order to improve app 
+
+package.json, package-lock.json - Configuration files
 
 
 
