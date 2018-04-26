@@ -19,10 +19,10 @@ Its an app that lets users create a new note with title and body, delete a note 
 4. Now using the command line run the following commands according to need->
   
   ```
-node app.js read --title "titlename" (Reading notes )
-node app.js add --title "titlename" --body "content" (Creating notes )
-node app.js remove --title "titlename" (Delete notes)
-node app.js list (list notes)
+node app.js read --title "titlename"
+node app.js add --title "titlename" --body "content" 
+node app.js remove --title "titlename" 
+node app.js list
 
 ```
 ## File Description
